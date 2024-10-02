@@ -1,0 +1,89 @@
+[
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/trash",
+        "fileSize": 21817,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "..."
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "1",
+        "description": ":)",
+        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/1.cs3",
+        "name": "1"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/trash",
+        "fileSize": 25068,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "..."
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 12,
+        "internalName": "2",
+        "description": ":(",
+        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/2.cs3",
+        "name": "2"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/trash",
+        "fileSize": 13621,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "..."
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "3",
+        "description": "#3",
+        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/3.cs3",
+        "name": "3"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/trash",
+        "fileSize": 17160,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "..."
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 25,
+        "internalName": "4",
+        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/4.cs3",
+        "name": "4"
+    }
+]
