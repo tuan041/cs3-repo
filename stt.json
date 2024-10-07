@@ -37,7 +37,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "2",
         "description": ":(",
         "url": "https://raw.githubusercontent.com/tuan041/trash/builds/2.cs3",
@@ -81,7 +81,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "4",
         "url": "https://raw.githubusercontent.com/tuan041/trash/builds/4.cs3",
         "name": "4"
