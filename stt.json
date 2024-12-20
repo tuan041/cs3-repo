@@ -3,7 +3,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 21817,
+        "fileSize": 21823,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "1",
         "description": ":)",
         "url": "https://raw.githubusercontent.com/tuan041/trash/builds/1.cs3",
@@ -69,7 +69,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 17160,
+        "fileSize": 17193,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -81,7 +81,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "4",
         "url": "https://raw.githubusercontent.com/tuan041/trash/builds/4.cs3",
         "name": "4"
