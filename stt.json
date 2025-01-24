@@ -18,7 +18,7 @@
         "version": 18,
         "internalName": "1",
         "description": ":)",
-        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/1.cs3",
+        "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/1.cs3",
         "name": "1"
     },
     {
@@ -40,7 +40,7 @@
         "version": 13,
         "internalName": "2",
         "description": ":(",
-        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/2.cs3",
+        "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/2.cs3",
         "name": "2"
     },
     {
@@ -62,7 +62,7 @@
         "version": 9,
         "internalName": "3",
         "description": "#3",
-        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/3.cs3",
+        "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/3.cs3",
         "name": "3"
     },
     {
@@ -83,7 +83,7 @@
         ],
         "version": 27,
         "internalName": "4",
-        "url": "https://raw.githubusercontent.com/tuan041/trash/builds/4.cs3",
+        "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/4.cs3",
         "name": "4"
     }
 ]
