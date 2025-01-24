@@ -69,7 +69,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 17193,
+        "fileSize": 17202,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -81,7 +81,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 27,
+        "version": 28,
         "internalName": "4",
         "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/4.cs3",
         "name": "4"
