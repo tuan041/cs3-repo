@@ -3,6 +3,6 @@
     "description": "...",
     "manifestVersion": 2,
     "pluginLists": [
-      "https://raw.githubusercontent.com/tuan041/trash/builds/stt.json"
+      "https://raw.githubusercontent.com/tuan041/trash/refs/heads/builds/stt.json"
     ]
   }
