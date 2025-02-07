@@ -1,7 +1,7 @@
 {
     "name": "vietnam",
     "description": "...",
-    "manifestVersion": 2,
+    "manifestVersion": 3,
     "pluginLists": [
       "https://raw.githubusercontent.com/tuan041/trash/refs/heads/builds/stt.json"
     ]
