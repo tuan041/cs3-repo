@@ -3,7 +3,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 21823,
+        "fileSize": 21826,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "1",
         "description": ":)",
         "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/1.cs3",
@@ -25,7 +25,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 25068,
+        "fileSize": 24657,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -37,7 +37,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "2",
         "description": ":(",
         "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/2.cs3",
@@ -47,7 +47,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 13621,
+        "fileSize": 13793,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -59,7 +59,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "3",
         "description": "#3",
         "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/3.cs3",
@@ -69,7 +69,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/trash",
-        "fileSize": 17202,
+        "fileSize": 17358,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -81,7 +81,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 28,
+        "version": 29,
         "internalName": "4",
         "url": "https://github.com/tuan041/trash/raw/refs/heads/builds/4.cs3",
         "name": "4"
